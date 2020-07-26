@@ -24,3 +24,21 @@
     padding: 1rem;
     text-align: center;
   }
+  html, body {
+    padding: 5px;
+}
+
+#data-table {
+    font-family: calibri, arial;
+    width: 400px;
+}
+
+#data-table thead td {
+    background-color: #8CCCF1;
+}
+
+#data-table td {
+    border: 0px solid #466E85;
+    width: 136px;
+    padding: 10px;
+}
